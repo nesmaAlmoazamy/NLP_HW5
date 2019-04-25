@@ -1,0 +1,3 @@
+{"sentence": "I hate that movie, Its really bad"}
+{"sentence": "This is the best movie I have ever seen, amazing and good job"}
+
